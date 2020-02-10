@@ -30,5 +30,25 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alishi973/MyNotes.git"
+  },
+  "keywords": [
+    "React",
+    "Notes",
+    "Context",
+    "Hook",
+    "Learn",
+    "Learning"
+  ],
+  "author": "Ali Shirzad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alishi973/MyNotes/issues"
+  },
+  "homepage": "https://github.com/alishi973/MyNotes#readme"
 }
